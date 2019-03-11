@@ -1,0 +1,13 @@
+.my h1 {
+color:red;
+}
+
+div#loading {
+    width: 480px;
+    height: 280px;
+    display: none;
+    background: url(/static/loadingimage.gif) no-repeat;
+    cursor: wait;
+    margin-left: auto;
+    margin-right: auto
+    }

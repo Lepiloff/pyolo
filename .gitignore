@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+/app/upload
+.DS_Store
+.idea
+*.jpg
+*.JPG
+# Neural Network weights
+*.weights
+*.pt
+*.onnx
+*.mlmodel
